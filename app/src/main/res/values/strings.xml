@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="number_one">Число 1</string>
+    <string name="number_two">Число 2</string>
+    <string name="back">Назад</string>
+    <string name="dialog_button">Вызвать диалоговое окно</string>
+</resources>
